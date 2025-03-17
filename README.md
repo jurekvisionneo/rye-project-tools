@@ -18,7 +18,7 @@ Helper script to create and pull Python projects managed by Rye, with GitHub int
 1. Clone this repo:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/rye-project-tools.git
+git clone https://github.com/jurekvisionneo/rye-project-tools.git
 ```
 
 2. Source the script:
